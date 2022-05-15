@@ -1,0 +1,4 @@
+1,6,granit
+2,10,basalt
+3,13,sandstone
+4,5,slate
